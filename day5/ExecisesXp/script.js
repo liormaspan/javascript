@@ -52,7 +52,7 @@
         // let usernum=prompt("enter your user name")
         // console.log(typeof(usernum))
 
-        //2
+        // 2
         // let num=prompt("enter youe number")
         // let usernum=null;
 
